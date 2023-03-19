@@ -50,13 +50,8 @@ namespace carinfo
                             Console.WriteLine("Not a valid option.");
                             break;
                     }
-
-
                 }
-
-
             }
-
         }
     }
 }
